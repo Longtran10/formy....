@@ -5,7 +5,7 @@ const CONFIG = {
     
     Chưa bao giờ anh nghĩ
     rằng anh, lại Fall in love with U`,
-    btnIntro: 'hihi',
+    btnIntro: 'Ấn vô',
     title: 'I go insane every time em bên mình 😙',
     desc: 'Chúng mình phải luôn yêu thương nhau nhá ',
     btnYes: 'Vẫn cứ là yêu LG 🙂',
