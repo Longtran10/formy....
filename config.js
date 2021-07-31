@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Mình bảo cái lày!',
     introDesc: `Chưa bao giờ anh nghĩ
-    Rằng em là gu của anh đâu
+    rằng em là gu của anh đâu
     Chưa bao giờ anh nghĩ
-    Rằng anh, lại Fall in love with U`,
+    rằng anh, lại Fall in love with U`,
     btnIntro: 'hihi',
     title: 'I go insane every time em bên mình 😙',
     desc: 'i will keep u safe inside my angel wings ',
