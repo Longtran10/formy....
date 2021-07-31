@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Mình bảo cái lày!',
-    introDesc: `Tự nhiên thấy nhớ quá à
+    introDesc: `Tự nhiên thấy nhớ quá à. 
     Người đang đọc đáng yêu quá à`,
     btnIntro: 'Ấn vô',
     title: 'I go insane every time you beside me 😙',
