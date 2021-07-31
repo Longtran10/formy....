@@ -1,12 +1,9 @@
 const CONFIG = {
     introTitle: 'Mình bảo cái lày!',
-    introDesc: `Chưa bao giờ anh nghĩ
-    rằng em là gu của anh đâu
-    
-    Chưa bao giờ anh nghĩ
-    rằng anh, lại Fall in love with U`,
+    introDesc: `Tự nhiên thấy nhớ quá à
+    Người đang đọc đáng yêu quá à`,
     btnIntro: 'Ấn vô',
-    title: 'I go insane every time em bên mình 😙',
+    title: 'I go insane every time you beside me 😙',
     desc: 'Chúng mình phải luôn yêu thương nhau nhá ',
     btnYes: 'Vẫn cứ là yêu LG 🙂',
     btnNo: 'Không nha 🙂',
